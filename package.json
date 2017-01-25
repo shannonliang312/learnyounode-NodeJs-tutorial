@@ -1,0 +1,24 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "learnyounode demo",
+  "main": "BabySteps.js",
+  "dependencies": {
+    "bl": "^1.2.0",
+    "strftime": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonliang312/learnyounode-NodeJs-tutorial.git"
+  },
+  "author": "shannonliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannonliang312/learnyounode-NodeJs-tutorial/issues"
+  },
+  "homepage": "https://github.com/shannonliang312/learnyounode-NodeJs-tutorial#readme"
+}
